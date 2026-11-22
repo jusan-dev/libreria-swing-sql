@@ -1,0 +1,11 @@
+# NetBeans / Ant
+build/
+dist/
+nbproject/private/
+
+# Compilados
+*.class
+
+# Sistema / IDE
+.DS_Store
+Thumbs.db
