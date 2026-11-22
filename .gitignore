@@ -1,7 +1,7 @@
 # NetBeans / Ant
 build/
 dist/
-nbproject/private/
+**/nbproject/private/
 
 # Compilados
 *.class
